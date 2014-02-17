@@ -7,13 +7,13 @@ Install
 Just use composer to install TinyConfig.
 
 Add dependence:
-
-    {
-        "require": {
-            "jlyu/tinyconfig": "0.0.1"
-        }
+```json
+{
+    "require": {
+        "jlyu/tinyconfig": "0.0.1"
     }
-
+}
+```
 and run `composer install`. Enjoy it!
 
 Usage
